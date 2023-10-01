@@ -9,7 +9,6 @@ use Athena to analyze data stored in Data Catalog
 
  
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ce55dcec-a9ee-444a-876c-c299adafaa70/32b5cea1-6c0a-4183-80d1-62ad793bb499/Untitled.png)
 
 In S3 we created 2 folders
 
